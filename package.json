@@ -7,8 +7,5 @@
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "Leonard Braholli",
-  "license": "MIT",
-  "dependencies": {
-    "node-sass": "^4.9.2"
-  }
+  "license": "MIT"
 }
